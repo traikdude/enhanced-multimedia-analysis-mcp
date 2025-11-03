@@ -2,7 +2,7 @@
 
 **A Model Context Protocol (MCP) server for professional multimedia content analysis and AI video generation prompt engineering**
 
-[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/yourusername/enhanced-multimedia-analysis-mcp)
+[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/traikdude/enhanced-multimedia-analysis-mcp)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-brightgreen.svg)](https://www.python.org/)
 
@@ -317,9 +317,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/enhanced-multimedia-analysis-mcp/issues)
+- **Issues:** [GitHub Issues](https://github.com/traikdude/enhanced-multimedia-analysis-mcp/issues)
 - **Documentation:** [docs/MASTER_SPECIFICATION.md](docs/MASTER_SPECIFICATION.md)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/enhanced-multimedia-analysis-mcp/discussions)
+- **Discussions:** [GitHub Discussions](https://github.com/traikdude/enhanced-multimedia-analysis-mcp/discussions)
 
 ---
 
