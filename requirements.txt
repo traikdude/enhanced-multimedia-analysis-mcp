@@ -1,0 +1,14 @@
+# Enhanced Multimedia Analysis MCP - Python Dependencies
+
+# Core MCP Framework
+fastmcp>=0.1.0
+mcp>=0.1.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Optional: Performance Monitoring
+psutil>=5.9.0
+
+# Optional: Caching
+diskcache>=5.6.0
